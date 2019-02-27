@@ -1,0 +1,8 @@
+{
+  "name": "padinet-dashboard",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "722c8786"
+}
